@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ntv.org.np/logo.png",NTV
+#EXTINF:-1 tvg-logo="https://ntv.org.np/logo.png", Public 4K TV 
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
 #EXTINF:-1,Kantipur Max 
