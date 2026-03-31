@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://ntv.org.np/logo.png",NTV
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
+
+#EXTINF:-1,Kantipur Max 
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
+
+#EXTINF:-1,Kantipur TV 
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+
+#EXTINF:-1,INDIGENOUS TV
+https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
+
+#EXTINF:-1, Capital TV
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+
+#EXTINF:-1, Mithila Nepal 
+http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
+
+#EXTINF:-1, Divya Darshan TV 
+http://live.divyadarshantv.com/hls/0/stream.m3u8
