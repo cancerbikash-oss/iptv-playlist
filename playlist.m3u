@@ -24,48 +24,31 @@ http://live.divyadarshantv.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://ntv.org.np/logo.png", Public 4K TV 
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
-#EXTINF:-1,Kantipur Max 
-https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
-
 #EXTINF:-1,Kantipur Max 2 
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 
-#EXTINF:-1,Kantipur TV 
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
-
+#EXTINF:-1,Kantipur TV HD
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
 
-#EXTINF:-1, Mithila Nepal 
+#EXTINF:-1,Mithila Nepal TV UHD
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 
-Mithila Nepal TV UHD
+#EXTINF:-,Mithila Nepal TV SD
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 
-Mithila Nepal TV SD
-http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
-
-#EXTINF:-1,INDIGENOUS TV
-https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
-
-Capital TV HD
+#EXTINF:-1,Capital TV HD
 https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
 
-#EXTINF:-1, Capital TV
-https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-
-Capital TV SD
+#EXTINF:-1,Capital TV SD
 https://streaming.tvnepal.com:19360/capitaltv/360p.m3u8
 
-Capital TV 360p
+#EXTINF:-1,Capital TV 360p
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 
-Divya Darshan TV
+#EXTINF:-1,Divya Darshan TV
 http://live.divyadarshantv.com/hls/0/stream.m3u8
 
-Divya Darshan TV HD
-http://live.divyadarshantv.com/hls/0/stream.m3u8
-
-#EXTINF:-1, Divya Darshan TV 
+#EXTINF:-1,Divya Darshan TV HD
 http://live.divyadarshantv.com/hls/0/stream.m3u8
 
 #EXTINF:-1, Star Sports 1 HD
@@ -79,4 +62,3 @@ http://ptu.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1,Nickelodeon Tamil
 http://ptu.ridsys.in/riptv/live/NICK/index.m3u8
-
