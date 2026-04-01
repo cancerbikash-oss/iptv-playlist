@@ -21,7 +21,7 @@ http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 #EXTINF:-1, Divya Darshan TV 
 hhttp://live.divyadarshantv.com/hls/0/stream.m3u8
 
-EXTINF:-1,Kantipur Max 2 
+#EXTINF:-1,Kantipur Max 2 
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 
 #EXTINF:-1,Kantipur TV HD
